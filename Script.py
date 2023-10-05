@@ -16,9 +16,9 @@ class script(object):
 Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 
     ABOUT_TXT = """<b>⍟───[ MY ᴅᴇᴛᴀɪʟꜱ ]───⍟
-‣ ᴍʏ ɴᴀᴍᴇ : <a href=https://t.me/Tamilmoviesrio_bot>𝗧𝗛𝗔𝗟𝗔𝗣𝗔𝗧𝗛𝗬 𝗙𝗜𝗟𝗧𝗘𝗥 𝗕𝗢𝗧</a>
+‣ ᴍʏ ɴᴀᴍᴇ : <a href=https://t.me/ben_filterbot>𝗧𝗛𝗔𝗟𝗔𝗣𝗔𝗧𝗛𝗬 𝗙𝗜𝗟𝗧𝗘𝗥 𝗕𝗢𝗧</a>
  ‣ My best friend : <a href='tg://settings'>ᴛʜɪs ᴘᴇʀsᴏɴ</a> 
- ‣ ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href='https://t.me/khandudon302'>NO ONE</a> 
+ ‣ ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href='https://t.me/Sunnyseee'>sᴜɴɴʏ</a> 
  ‣ ʟɪʙʀᴀʀʏ : <a href='https://docs.pyrogram.org/'>ᴘʏʀᴏɢʀᴀᴍ</a> 
  ‣ ʟᴀɴɢᴜᴀɢᴇ : <a href='https://www.python.org/download/releases/3.0/'>ᴘʏᴛʜᴏɴ 3</a> 
  ‣ ᴅᴀᴛᴀ ʙᴀsᴇ : <a href='https://www.mongodb.com/'>ᴍᴏɴɢᴏ ᴅʙ</a> 
@@ -30,21 +30,7 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 
 Tʜɪs Bᴏᴛ ʜᴀs Lᴀᴛᴇsᴛ ᴀɴᴅ Aᴅᴠᴀɴᴄᴇᴅ Fᴇᴀᴛᴜʀᴇs⚡️
 
-Where is source code? - <a href='https://t.me/Teamrioupdates/267'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a></b>
-
-
-Developer - <a href='https://t.me/creatorrio'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>
-
-special Thanks To ❤️ Devs -
-
--Dev 1 [Owner of this bot ]<a href='https://t.me/creatorrio'>TEAM RIO</a>
-
--Dev 2 <a href='https://t.me/Kgashok04'>ASHOK</a>
-
--Dev 3 <a href='https://t.me/creatorbeatz'>Jᴏᴇʟ </> TɢX</a>
-
-- Dev 4 <a href='https://t.me/TeamEvamaria'>TEAM EVAMARIA</a>
-"""
+Where is source code? - <a href='https://t.me/Sunnyseee'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a></b>
 
 
 
@@ -96,9 +82,9 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
     EXTRAMOD_TXT = """ʜᴇʟᴘ: Exᴛʀᴀ Mᴏᴅᴜʟᴇs
 <b>ɴᴏᴛᴇ:</b>
 my features Stay here new features coming soon...  
- <b>✯ Maintained by : <a href=https://t.me/creatorrio>☢RIO NETWORKS☢</a></b>
+ <b>✯ Maintained by : <a href=https://t.me/Sunnyseee>☢sᴜɴɴʏ☢</a></b>
   
- <b>✯ Join here : <a href=https://t.me/Teamrioupdates>☢Join my updateds☢</a></b> 
+ <b>✯ Join here : <a href=https://t.me/Filmy_funs)>☢Join movies group ☢</a></b> 
   
  ./id - <code>ɢᴇᴛ ɪᴅ ᴏꜰ ᴀ ꜱᴘᴇᴄɪꜰɪᴇᴅ ᴜꜱᴇʀ.</ 
  code> 
@@ -225,7 +211,7 @@ Tɪᴘ: Sᴇʟᴇᴄᴛ "Lᴀɴɢᴜᴀɢᴇs" ᴏʀ "Sᴇᴀsᴏɴs" Bᴜᴛᴛ
 ꜱᴇʀɪᴇꜱ ʀᴇǫᴜᴇꜱᴛ ꜰᴏʀᴍᴀᴛ
 ⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯
 
-ɢᴏ ᴛᴏ ɢᴏᴏɢʟᴇ ➠ ᴛʏᴘᴇ ꜱᴇʀɪᴇꜱ ɴᴀᴍᴇ ➠ ᴄᴏᴘʏ ᴄᴏʀʀᴇᴄᴛ ɴᴀᴍᴇ ➠ ᴘᴀꜱᴛᴇ ᴛʜɪꜱ ɢʀᴏᴜᴘ
+ɢᴏ ᴛᴏ ɢᴏᴏɢʟᴇ ➠ WWW.google.com ➠ ᴛʏᴘᴇ ꜱᴇʀɪᴇꜱ ɴᴀᴍᴇ ➠ ᴄᴏᴘʏ ᴄᴏʀʀᴇᴄᴛ ɴᴀᴍᴇ ➠ ᴘᴀꜱᴛᴇ ᴛʜɪꜱ ɢʀᴏᴜᴘ
 
 ᴇxᴀᴍᴘʟᴇ : Loki S01E01
 
@@ -242,7 +228,8 @@ Tɪᴘ: Sᴇʟᴇᴄᴛ "Lᴀɴɢᴜᴀɢᴇs" ᴏʀ "Sᴇᴀsᴏɴs" Bᴜᴛᴛ
 
     CAPTION = """<b>📂Fɪʟᴇɴᴀᴍᴇ : {file_name}
 
-<b> Size ⚙️: {file_size}</b>""" 
+<b> Size ⚙️: {file_size}
+join & Support - @Filmy_funs_update</b>""" 
 
     IMDB_TEMPLATE_TXT = """
 <b>Query: {qurey}
